@@ -1,0 +1,14 @@
+
+.bi-list {
+  font-size: 1.5rem;
+  color: white;
+  
+}
+.imagen-carrusel {
+  width: 100vw; 
+  height: 50vh; 
+  object-fit: cover;
+}
+.icono-nav {
+  width: 8vw;
+}
