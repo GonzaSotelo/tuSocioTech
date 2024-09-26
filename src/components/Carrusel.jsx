@@ -14,7 +14,7 @@ export const Carrusel = () => {
     <>
      <Carousel activeIndex={index} onSelect={handleSelect}>
       <Carousel.Item>
-        <img src="public/img/banner/banner.jpg" className='imagen-carrusel' alt="" />
+        <img src="../public/img/banner/banner.jpg" className='imagen-carrusel' alt="" />
         <Carousel.Caption>
           <h3>First slide label</h3>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
