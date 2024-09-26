@@ -1,8 +1,8 @@
 
 import './App.css'
-import { Carrusel } from './components/Carrusel'
-import Footer from './components/Footer'
-import { Header } from './components/Header'
+import Footer from './components/footer/Footer'
+import { Header } from './components/header/Header'
+import { Body } from './components/body/Body'
 
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
   return (
     <>
 <Header/>
-<Carrusel/>
+<Body/>
 <Footer/>
 
     </>
