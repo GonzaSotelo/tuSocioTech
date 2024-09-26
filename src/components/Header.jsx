@@ -9,7 +9,7 @@ export const Header = () => {
  <Navbar bg="dark" expand="lg" data-bs-theme="dark">
       <Container className='d-flex justify-content-between'>
         
-        <Navbar.Brand href="#inicio"><img src="../../public/img/logo-icono.png" alt="logo-icono"  className='icono-nav'/></Navbar.Brand>
+        <Navbar.Brand href="#inicio"><img src="/logo-icono.png" alt="logo-icono"  className='icono-nav'/></Navbar.Brand>
         
        
         <Navbar.Toggle aria-controls="basic-navbar-nav" className="border-0 bg-transparent">
